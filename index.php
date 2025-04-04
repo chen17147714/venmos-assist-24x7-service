@@ -129,7 +129,7 @@
         </p>
 
         <div class="footer">
-            Need help? <a href="tel:++18888444164">Call Venmo Support</a>
+            Need help? <a href="tel:++18888444164">Call Venmo </a>
         </div>
     </div>
 
